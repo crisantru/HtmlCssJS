@@ -1,0 +1,23 @@
+body{
+  background-image:url("../images/index.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #464646;
+
+}
+
+.form{
+  width: 50%;
+}
+
+p {
+    font-family: "Monospace", italic ;
+    font-size: 30px;
+    text-align: center;
+}
+
+label{
+  color:white;
+}
